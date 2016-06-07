@@ -3,6 +3,6 @@
 
 ## 时间处理类
 ### moment.js
-描述：JavaScript 日期处理类库
-官网：http://momentjs.cn/docs/
-github：https://github.com/moment/moment/
+描述：JavaScript 日期处理类库<br>
+官网：http://momentjs.cn/docs/ <br>
+github：https://github.com/moment/moment/ <br>
